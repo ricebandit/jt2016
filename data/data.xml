@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<item id="resume" visible="true">
+		<display><![CDATA[Resume]]></display>
+		<type>popup</type>
+		<url>media/docs/JeremyTani_2017.zip</url>
+	</item>
+	<item id="contact" visible="true">
+		<display><![CDATA[JeremyTani@Gmail.com]]></display>
+		<type>popup</type>
+		<url><![CDATA[jeremytani@gmail.com]]></url>
+	</item>
+	<gallery>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[jeremytani]]></title>
+			<description><![CDATA[]]></description>
+			<mediums><![CDATA[]]></mediums>
+			<role><![CDATA[]]></role>
+			<year><![CDATA[]]></year>
+			<company><![CDATA[]]></company>
+			<client><![CDATA[]]></client>
+			<img><![CDATA[media/gallery/jeremytani]]></img>
+			<videoURL><![CDATA[134919604]]></videoURL>
+			<videoWidth><![CDATA[1]]></videoWidth>
+			<videoHeight><![CDATA[1]]></videoHeight>
+			<url>
+				<tag><![CDATA[]]></tag>
+				<address active="true" flash="false"><![CDATA[]]></address>
+			</url>
+		</project>
+		
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Scooby-Doo: Snack Attack]]></title>
+			<description><![CDATA[I LOVE working on games and this Jenga-inspired game was no exception! Adopted from another developer, I ended up reworking the structure and logic of the game, to satisfy client expectations. As in all things 2D, there's a bit of cheating involved with the physics-- just enough to give the sense that things are about to collapse.]]></description>
+			<mediums><![CDATA[createJS, jQuery, JavaScript]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2015]]></year>
+			<company><![CDATA[Blackbox Creative Group]]></company>
+			<client><![CDATA[Warner Bros. Consumer Products]]></client>
+			<img><![CDATA[media/gallery/scoobysnackattack]]></img>
+			<videoURL><![CDATA[202337992]]></videoURL>
+			<videoWidth><![CDATA[2404]]></videoWidth>
+			<videoHeight><![CDATA[1754]]></videoHeight>
+			<url>
+				<tag><![CDATA[Game]]></tag>
+				<address active="true" flash="false"><![CDATA[http://jeremytani.com/clients/samples/http://localhost/Blkbx/WB/ScoobyJenga/wb-scoobyjenga-game//]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[Ice Age: Animal Ancestry]]></title>
+			<description><![CDATA[A fun and engaging way to learn about your favorite pet's ancestors! Built with EmberJS, and utilizing CSS3 animations.]]></description>
+			<mediums><![CDATA[HTML5, CSS3, jQuery, Facebook API, Twitter API, createJS, PHP]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2016]]></year>
+			<company><![CDATA[PXL Bros.]]></company>
+			<client><![CDATA[20th Century Fox]]></client>
+			<img><![CDATA[media/gallery/ice_age]]></img>
+			<videoURL><![CDATA[202262683]]></videoURL>
+			<videoWidth><![CDATA[2000]]></videoWidth>
+			<videoHeight><![CDATA[1206]]></videoHeight>
+			<url>
+				<tag><![CDATA[Web App]]></tag>
+				<address active="true" flash="false"><![CDATA[http://www.animalancestry.com/]]></address>
+			</url>
+		</project>
+		
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Looney Tunes: Miniature Basketball]]></title>
+			<description><![CDATA[Developed with createJS, jQuery & JavaScript for Warner Bros. Consumer Products and Blackbox Creative Group. Play as Bugs Bunny, Tazmanian Devil, and of course, the unfortunate Wile E. Coyote in a crazy game of Miniature Basketball! There are 3 levels of difficulty to play through. Can you get through the last level? I took care of all game development, and guided the Animator in creating all necessary assets.]]></description>
+			<mediums><![CDATA[createJS, jQuery, JavaScript]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2015]]></year>
+			<company><![CDATA[Blackbox Creative Group]]></company>
+			<client><![CDATA[Warner Bros. Consumer Products]]></client>
+			<img><![CDATA[media/gallery/looneytunesbasketball]]></img>
+			<videoURL><![CDATA[138162888]]></videoURL>
+			<videoWidth><![CDATA[2404]]></videoWidth>
+			<videoHeight><![CDATA[1754]]></videoHeight>
+			<url>
+				<tag><![CDATA[Game]]></tag>
+				<address active="true" flash="false"><![CDATA[http://jeremytani.com/clients/samples/looneybasketball/]]></address>
+			</url>
+		</project>
+
+		<!--project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[The Boy Web App]]></title>
+			<description><![CDATA[Upload your photo and turn yourself into an evil doll!]]></description>
+			<mediums><![CDATA[HTML5, CSS3, jQuery, Facebook API, Twitter API, createJS, PHP]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2016]]></year>
+			<company><![CDATA[BLKBX Creative Group]]></company>
+			<client><![CDATA[STX]]></client>
+			<img><![CDATA[media/gallery/theboy]]></img>
+			<videoURL><![CDATA[134919604]]></videoURL>
+			<videoWidth><![CDATA[2000]]></videoWidth>
+			<videoHeight><![CDATA[1526]]></videoHeight>
+			<url>
+				<tag><![CDATA[Web App (Expired)]]></tag>
+				<address active="false" flash="false"><![CDATA[http://www.theboy/]]></address>
+			</url>
+		</project-->
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[Miss Peregrine's Snapchat Filter Web App]]></title>
+			<description><![CDATA[Create your custom Miss Peregrine's-themed filter for Snapchat!]]></description>
+			<mediums><![CDATA[HTML5, CSS3, jQuery, Facebook API, Twitter API, createJS, PHP]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2016]]></year>
+			<company><![CDATA[PXL Bros.]]></company>
+			<client><![CDATA[STX]]></client>
+			<img><![CDATA[media/gallery/missperegrines]]></img>
+			<videoURL><![CDATA[202277536]]></videoURL>
+			<videoWidth><![CDATA[2000]]></videoWidth>
+			<videoHeight><![CDATA[1076]]></videoHeight>
+			<url>
+				<tag><![CDATA[Web App]]></tag>
+				<address active="true" flash="false"><![CDATA[http://www.peculiarfilters.com/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[OddBot Official Website]]></title>
+			<description><![CDATA[Designed and developed every aspect of this site. Website utilized a twist on the parallaxing website concept. Integrated YouTube API for the video gallery, Twitter / Tumblr / Facebook API's for the company updates section, createJS for some extra special effects, and jQuery for everything else. Responsive web design.]]></description>
+			<mediums><![CDATA[HTML5, CSS3, jQuery, Tumblr API, Facebook API, Twitter API, createJS, youTube, PHP]]></mediums>
+			<role><![CDATA[Designer/Lead Developer]]></role>
+			<year><![CDATA[2012]]></year>
+			<company><![CDATA[OddBot, Inc.]]></company>
+			<client><![CDATA[OddBot, Inc.]]></client>
+			<img><![CDATA[media/gallery/oddbot]]></img>
+			<videoURL><![CDATA[134919604]]></videoURL>
+			<videoWidth><![CDATA[1150]]></videoWidth>
+			<videoHeight><![CDATA[644]]></videoHeight>
+			<url>
+				<tag><![CDATA[Corporate Website]]></tag>
+				<address active="true" flash="false"><![CDATA[http://oddbot.net]]></address>
+			</url>
+		</project>
+		
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Tom & Jerry Witches’ Cauldron Game]]></title>
+			<description><![CDATA[Developed with createJS, jQuery & JavaScript for Cartoon Network and Blackbox Creative Group. Two separate games, depending on selecting Tom or Jerry. I took care of all game development, and guided the Animator in creating all necessary assets.]]></description>
+			<mediums><![CDATA[createJS, jQuery, JavaScript]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2014]]></year>
+			<company><![CDATA[Blackbox Creative Group]]></company>
+			<client><![CDATA[Cartoon Network]]></client>
+			<img><![CDATA[media/gallery/tomandjerry]]></img>
+			<videoURL><![CDATA[134916190]]></videoURL>
+			<videoWidth><![CDATA[1190]]></videoWidth>
+			<videoHeight><![CDATA[796]]></videoHeight>
+			<url>
+				<tag><![CDATA[Game]]></tag>
+				<address active="true" flash="false"><![CDATA[http://jeremytani.com/clients/samples/tomandjerry/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Spartacus: Rebel Training]]></title>
+			<description><![CDATA[Fruit Ninja-inspired game to ramp up the campaign for the final season of the Spartacus TV series.]]></description>
+			<mediums><![CDATA[AS3]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2012]]></year>
+			<company><![CDATA[AndCo]]></company>
+			<client><![CDATA[Starz Entertainment]]></client>
+			<img><![CDATA[media/gallery/spartacustraining]]></img>
+			<videoURL><![CDATA[134804841]]></videoURL>
+			<videoWidth><![CDATA[1190]]></videoWidth>
+			<videoHeight><![CDATA[592]]></videoHeight>
+			<url>
+				<tag><![CDATA[Game (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://jeremytani.com/clients/samples/spartacustraining/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[Beeline Productions Website]]></title>
+			<description><![CDATA[Responsive site created with createJS, jQuery, JavaScript, CSS, HTML5, Vimeo API.]]></description>
+			<mediums><![CDATA[createJS, jQuery, JavaScript, CSS, HTML5, Vimeo API]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2014]]></year>
+			<company><![CDATA[Beeline Productions]]></company>
+			<client><![CDATA[Beeline Productions]]></client>
+			<img><![CDATA[media/gallery/beeline]]></img>
+			<videoURL><![CDATA[134974391]]></videoURL>
+			<videoWidth><![CDATA[1200]]></videoWidth>
+			<videoHeight><![CDATA[660]]></videoHeight>
+			<url>
+				<tag><![CDATA[Corporate Website]]></tag>
+				<address active="true" flash="false"><![CDATA[http://beelineprod.com/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[As Above/So Below]]></title>
+			<description><![CDATA[This was my first site built as a Tumblr site. It was also the first time I've had to put together a scroll-parallaxing website. During development, many very useful, self-contained JavaScript classes were created to be used in future projects. CreateJS was very helpful in preloading assets, and was really the only way I was able to achieve the feature at the very bottom of the website. This site takes a while to load, due to all of the features that needed to be present throughout all website scrolling.]]></description>
+			<mediums><![CDATA[HTML5, jQuery, createJS, CSS, JavaScript, Tumblr, YouTube API]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2014]]></year>
+			<company><![CDATA[Blackbox Creative Group]]></company>
+			<client><![CDATA[Universal Pictures]]></client>
+			<img><![CDATA[media/gallery/aasb]]></img>
+			<videoURL><![CDATA[134591096]]></videoURL>
+			<videoWidth><![CDATA[1180]]></videoWidth>
+			<videoHeight><![CDATA[790]]></videoHeight>
+			<url>
+				<tag><![CDATA[HD Website (Expired)]]></tag>
+				<address active="false" flash="false"><![CDATA[http://asabovesobelowmovie.com]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[The Hangover part II]]></title>
+			<description><![CDATA[Built completely with AS3/Flash, this website was released into the wild 2 weeks after the start of development. With such a short deadline, it was crucial that many of the top-level decisions were made as early as possible. 
+<br>One of the design challenges concerned the rescaling/resizing of the various design elements. This introduced the need for a new Background class for our framework, which allowed for multiple images on separate layers to behave differently from one another.  
+<br>Another part of this challenge had to do with how the content elements behaved, as well. We didn’t want to settle for simply scaling entire elements, as it gave the elements a certain amount of cheapness to it. Instead, each element had a resize method that would keep certain items, like the header text, the same size but would adjust everything else, like the header underline, to the width allowed for the content. 
+<br>It was this kind of attention to detail that gave The Hangover Part 2 the quality of website it deserved. 
+]]></description>
+			<mediums><![CDATA[ActionScript 3, jQuery]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2011]]></year>
+			<company><![CDATA[...and company]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/hangover2]]></img>
+			<videoURL><![CDATA[134921332]]></videoURL>
+			<videoWidth><![CDATA[1190]]></videoWidth>
+			<videoHeight><![CDATA[658]]></videoHeight>
+			<url>
+				<tag><![CDATA[Official Website (Expired)]]></tag>
+				<address active="false" flash="true"><![CDATA[http://hangoverpart2.warnerbros.com/index.html]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Red Riding Hood: Your Destiny Awaits]]></title>
+			<description><![CDATA[As my first Facebook App, this project served as a way to get my feet wet in the Facebook Graph API. After answering a few multiple choice questions, the user is given a “personality classification” telling them what character from the film, “Red Riding Hood” they are most like. Their result is then posted to their Facebook Wall, should they agree to it.
+<br>As anyone who has ever worked with the always-evolving Facebook API will tell you, there’s a whole lot of trial and error methods involved, and finding the correct, most up-to-date documentation can be a challenge. While most of my finished code winds up eventually using Adobe’s Facebook API, I’ve found that learning both the PHP and JavaScript versions can help with solving issues.
+]]></description>
+			<mediums><![CDATA[ActionScript 3, jQuery, Facebook Graph API]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2011]]></year>
+			<company><![CDATA[...and company]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/redridinghoodquiz]]></img>
+			<videoURL><![CDATA[134918140]]></videoURL>
+			<videoWidth><![CDATA[2000]]></videoWidth>
+			<videoHeight><![CDATA[1564]]></videoHeight>
+			<url>
+				<tag><![CDATA[Featureset (Expired)]]></tag>
+				<address active="false" flash="true"><![CDATA[http://redridinghood.warnerbros.com/quiz/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Red Riding Hood: The Wolf Is Coming]]></title>
+			<description><![CDATA[While this was not my project per se, I was involved as a Support Developer role to create expandable, open ways of working with the Google Maps API. While the main Developer worked on setting up the rest of the music video intricacies, I had several challenges to figure out in regards to what we were trying to achieve with the maps component:
+<br>-The maps shown had to generate via JavaScript.
+-Each map had to be able to layer animated images over it, and be able to specify the speed and amount of elements animated within it. 
+-Each map instance needed to be able to be controllable to do rotating pans.
+<br>Most of these challenges were solved by using jQuery.
+]]></description>
+			<mediums><![CDATA[ActionScript 3, jQuery, CSS, Google Maps API]]></mediums>
+			<role><![CDATA[Support Developer]]></role>
+			<year><![CDATA[2011]]></year>
+			<company><![CDATA[...and company]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/redridinghoodwolf]]></img>
+			<videoURL><![CDATA[134815661]]></videoURL>
+			<videoWidth><![CDATA[1200]]></videoWidth>
+			<videoHeight><![CDATA[640]]></videoHeight>
+			<url>
+				<tag><![CDATA[Featureset (Expired)]]></tag>
+				<address active="false" flash="false"><![CDATA[http://redridinghood.warnerbros.com/thewolfiscoming/]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Going The Distance]]></title>
+			<description><![CDATA[This project was the perfect testing ground for my AS3 Framework I created. My main focus toward developing this framework was to make it as “flat” as possible. It was functional enough to address all of the requirements our clients needed to have (be internationally localizable, rescalable for various screen ratios, etc.,) yet still easily expandable by Developers who may or may not be familiar with the advanced principles of OOP. This allowed us to be able to pass projects onto a larger variety of freelancers, when it was deemed necessary.
+<br>On its’ first flight with an outside resource, the initial version of this project was completed in record time, affording us time to tackle the other pressing projects that were going on simultaneously. Further, modifications (some minor, some major) were requested by the clients and the framework handled it gracefully.
+]]></description>
+			<mediums><![CDATA[ActionScript 3]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2010]]></year>
+			<company><![CDATA[...and company]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/goingthedistance]]></img>
+			<videoURL><![CDATA[134973494]]></videoURL>
+			<videoWidth><![CDATA[1200]]></videoWidth>
+			<videoHeight><![CDATA[704]]></videoHeight>
+			<url>
+				<tag><![CDATA[Official Website (Expired)]]></tag>
+				<address active="false" flash="true"><![CDATA[http://going-the-distance.warnerbros.com/dvd/#/Synopsis]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="false">
+			<title><![CDATA[Sex And The City 2]]></title>
+			<description><![CDATA[I started at …and company as a contractor to help with this project. When I was brought in, the project was on a very tight deadline, and a few more sections needed to be completed. One of the issues with the site that I noticed early on was that many of Warner Bros.’  requirements  having to do with localizing for international sites had not been addressed. Once the initial site was completed, but before it was delivered, I went back and gave it the fixes it needed to get done.
+<br>The project delivered on time, and I was offered a full-time position. From the very get-go, I noticed that the people at …and company were great to work with, very pleasant and fun, so I accepted!
+]]></description>
+			<mediums><![CDATA[ActionScript 3]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2010]]></year>
+			<company><![CDATA[...and company]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/sexandthecity2]]></img>
+			<videoURL><![CDATA[134917340]]></videoURL>
+			<videoWidth><![CDATA[1200]]></videoWidth>
+			<videoHeight><![CDATA[704]]></videoHeight>
+			<url>
+				<tag><![CDATA[Official Website (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://www.sexandthecitymovie.com/dvd/#/CASTCREW]]></address>
+			</url>
+		</project>
+
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[The Curious Case of Benjamin Button]]></title>
+			<description><![CDATA[This project was my first project with Warner Bros. as a Lead Developer. It was a very high profile film, and was set for release in the midst of the holidays. I had 3 Support Developers to guide through the process of creating sections I delegated to them. This was also the first project I had that was required to be made specifically for international deployment, so every piece of text had to be translatable and behave in  a way that would work no matter how long a piece of text was.
+<br>The international version of this site was launched on Christmas day of that year to over a dozen countries. Some of them are displayed here: UK, Japan, France, Netherlands, Denmark.
+]]></description>
+			<mediums><![CDATA[ActionScript 3]]></mediums>
+			<role><![CDATA[Lead Developer]]></role>
+			<year><![CDATA[2008]]></year>
+			<company><![CDATA[Crew Creative]]></company>
+			<client><![CDATA[Warner Bros. International]]></client>
+			<img><![CDATA[media/gallery/benjaminbutton]]></img>
+			<videoURL><![CDATA[134800305]]></videoURL>
+			<videoWidth><![CDATA[2000]]></videoWidth>
+			<videoHeight><![CDATA[1318]]></videoHeight>
+			<url>
+				<tag><![CDATA[UK (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.warnerbros.co.uk/benjaminbutton/]]></address>
+			</url>
+			<url>
+				<tag><![CDATA[Japan (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.warnerbros.co.jp/benjaminbutton/]]></address>
+			</url>
+			<url>
+				<tag><![CDATA[France (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.warnerbros.fr/benjaminbutton/]]></address>
+			</url>
+			<url>
+				<tag><![CDATA[Netherlands (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.nl.warnerbros.com/benjaminbutton/]]></address>
+			</url>
+			<url>
+				<tag><![CDATA[Denmark (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.warnerbros.de/benjaminbutton/]]></address>
+			</url>
+		</project>
+		
+		<project active="true" code="gallery" unlocked="true">
+			<title><![CDATA[The Dark Knight]]></title>
+			<description><![CDATA[I added the Video section. Since this project was targeting International territories, the video player was made to resize depending on the dimensions and ratio of the displayed video.]]></description>
+			<mediums><![CDATA[ActionScript 2]]></mediums>
+			<role><![CDATA[Support Developer]]></role>
+			<year><![CDATA[2008]]></year>
+			<company><![CDATA[Crew Creative]]></company>
+			<client><![CDATA[Warner Bros.]]></client>
+			<img><![CDATA[media/gallery/darkknight]]></img>
+			<videoURL><![CDATA[134800764]]></videoURL>
+			<videoWidth><![CDATA[1200]]></videoWidth>
+			<videoHeight><![CDATA[728]]></videoHeight>
+			<url>
+				<tag><![CDATA[Official Website - UK (FLASH)]]></tag>
+				<address active="true" flash="true"><![CDATA[http://wwws.warnerbros.co.uk/thedarkknight/]]></address>
+			</url>
+		</project>
+
+	</gallery>
+
+	<history>
+		<year num="2017">
+			<project>
+				<title><![CDATA[Fathom Events Corporate Website]]></title>
+				<role><![CDATA[Front-End Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Avatar: Discover Pandora]]></title>
+				<role><![CDATA[Front-End Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[20th Century Fox Website]]></title>
+				<role><![CDATA[Front-End Developer]]></role>
+			</project>
+		</year>
+		<year num="2016">
+			<project>
+				<title><![CDATA[Miss Peregrine's House of Peculiar Children Snapchat Filter Generator]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Ice Age: Animal Ancestry]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Boy: See What You'd Look Like as a Doll Social App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Miracles From Heaven Meme Generator]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2015">
+			<project>
+				<title><![CDATA[Goosebumps International Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			
+			<project>
+				<title><![CDATA[The Gift: Have You Changed From High School? Social App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Scooby-Doo: Snack Attack Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Looney Tunes: Miniature Basketball Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Looney Tunes: Training Program Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[BLKBX Social Capabilities Tumblr Site]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2014">
+			
+			<project>
+				<title><![CDATA[RecRoom Corporate Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[As Above/So Below Tumblr Site]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Chappie]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Tom & Jerry: Witches' Cauldron Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Beeline Productions Corporate Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[22 Jump Street: University Obstacle Course]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[22 Jump Street: Undercover Alias Social App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2013">
+			<project>
+				<title><![CDATA[Care Bears: Love to Learn Android/iOS App]]></title>
+				<role><![CDATA[Project Coordinator]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Oddbot, Inc Corporate Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Phineas & Ferb: Misson Marvel Waffle-inator (D23, 40-foot exhibit)]]></title>
+				<role><![CDATA[Project Coordinator]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Scooby-Doo: Scavenger Hunt Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[Scooby-Doo: Fall-Away Bridge Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[The Harry Potter Gift Guide]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2012">
+			<project>
+				<title><![CDATA[The Wizard of Oz, 75th Anniversary]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[The Best of Wb Home Release Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+			
+			<project>
+				<title><![CDATA[My Friend Barlow (B&N Nook App)]]></title>
+				<role><![CDATA[Developer]]></role>
+			</project>
+			
+
+			<project>
+				<title><![CDATA[Around the World with Elwood & Ofie (B&N Nook App)]]></title>
+				<role><![CDATA[Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Spartacus: Rebel Training Game]]></title>
+				<role><![CDATA[Game Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Vow: Remember the Moments Facebook App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2011">
+
+			<project>
+				<title><![CDATA[Crazy, Stupid, Love]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Red Riding Hood: Your Destiny Awaits]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Red Riding Hood: The Wolf is Coming]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Hangover Part II]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Spartacus: Take Up Arms Facebook App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Born to Be Wild 3D]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Spartacus: Gods of the Arena]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Country Strong]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2010">
+
+			<project>
+				<title><![CDATA[Going the Distance]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Going the Distance: DJ Your Hook Up]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Scion: Take on the Machine Facebook App]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Clea Restaurant Corporate Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Redbury Corporate Website]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Flipped]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Sex and the City 2]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Sex and the City 2: The Closet]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Why Did I Get Married 2]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2009">
+
+			<project>
+				<title><![CDATA[Disney's Starstruck]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Fame: Social App]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Box]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Whiteout]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2008">
+			<project>
+				<title><![CDATA[The Dark Knight]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Curious Case of Benjamin Button]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Obsessed]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Julie & Julia]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[The Secret Life of Bees]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Discovery General Website Template]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2007">
+
+			<project>
+				<title><![CDATA[Plant a Billion Trees Website]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Bratz: The Movie]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2005">
+			<project>
+				<title><![CDATA[Amp'd Mobile]]></title>
+				<role><![CDATA[Web Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[TLB Creative]]></title>
+				<role><![CDATA[Flash Designer/Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Bratz Corporate Website]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+		</year>
+
+		<year num="2004">
+			<project>
+				<title><![CDATA[Edgar & Ellen: Mansion Mayhem Game Website]]></title>
+				<role><![CDATA[Junior Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Enthusia Racing Official Website]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Department X Corporate Site]]></title>
+				<role><![CDATA[Junior Flash Developer/Designer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Konami/McDonald's Cross-Promotion]]></title>
+				<role><![CDATA[Flash Developer]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Winning Eleven Community Website]]></title>
+				<role><![CDATA[Web Designer]]></role>
+			</project>
+		</year>
+
+		<year num="2003">
+			<project>
+				<title><![CDATA[Larryboy: The Good, The Bad, The Eggly]]></title>
+				<role><![CDATA[Flash Animator]]></role>
+			</project>
+		</year>
+
+		<year num="2002">
+			<project>
+				<title><![CDATA[Larryboy: The Yodelnapper!]]></title>
+				<role><![CDATA[Flash Animator]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Larryboy: Leggo My Ego]]></title>
+				<role><![CDATA[Flash Animator]]></role>
+			</project>
+
+			<project>
+				<title><![CDATA[Larryboy and the Angry Eyebrows]]></title>
+				<role><![CDATA[Flash Animator]]></role>
+			</project>
+		</year>
+
+		<year num="2001">
+			<project>
+				<title><![CDATA[Focus on the Family Video Series]]></title>
+				<role><![CDATA[Flash Animator]]></role>
+			</project>
+		</year>
+
+		<year num="2000">
+			<project>
+				<title><![CDATA[NeoPets.com]]></title>
+				<role><![CDATA[Full-time Illustrator, Animator, Programmer]]></role>
+			</project>
+		</year>
+
+	</history>
+</data>
